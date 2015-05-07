@@ -10,6 +10,7 @@ namespace github_TEST_CSharp
 		static void Main(string[] args)
 		{
 			System.Console.WriteLine("Hello____World!");
+			System.Console.WriteLine("Second line");
 			System.Console.ReadKey();
 		}
 	}
